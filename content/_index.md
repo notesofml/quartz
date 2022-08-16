@@ -14,6 +14,7 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 
 ## Get Started
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+> Check out [New Note](notesofml/Testing.md)
 
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
