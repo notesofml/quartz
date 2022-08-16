@@ -1,4 +1,4 @@
-baseURL = "https://notesofml.github.io/quartz-220816"
+baseURL = "https://notesofml.github.io/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
