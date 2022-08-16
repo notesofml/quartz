@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "aff1ec0796547e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f892e714a4c2d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My first note.md",
+            "mode": "source"
+          }
+        },
+        "group": "0807748a72033427"
+      },
+      {
+        "id": "e1505554295e3130",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My first note.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0807748a72033427"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b34b8f24502cd90",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fb4a815429d0536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ed808bd62aaee4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc0d6e02d20cc50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19a62750c9279900",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3ff9fa4af58643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067a1c49526cd6f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My first note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66f892e714a4c2d1",
+  "lastOpenFiles": [
+    "My first note.md",
+    "Testing.md"
+  ]
+}
