@@ -1,7 +1,7 @@
 ---
 title: 🪴 Quartz 3.2
 ---
-
+<!---
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search|search]]
@@ -23,4 +23,10 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
+--->
+
+## Notes of My Learnings
+
+Welcome to this webpage enlisting my notes
 
